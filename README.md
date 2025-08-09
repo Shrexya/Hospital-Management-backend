@@ -15,3 +15,8 @@ models/ # Mongoose models
 routes/ # API routes
 server.js # Main server entry
 package.json # Dependencies
+
+## 🔗 Related Repositories
+- Backend: [Hospital Management Backend](https://github.com/Shrexya/Hospital-Management-backend)
+
+## 📸 Screenshots
