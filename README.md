@@ -17,6 +17,12 @@ server.js # Main server entry
 package.json # Dependencies
 
 ## 🔗 Related Repositories
-- Backend: [Hospital Management Backend](https://github.com/Shrexya/Hospital-Management-backend)
+- Backend: [Hospital Management Backend](https://github.com/Shrexya/Hospital-Management-frontend)
 
 ## 📸 Screenshots
+
+**MongoDB Data Screenshot**  
+![Database Screenshot](assets/database.jpg)
+
+**Terminal Output**  
+![Terminal Screenshot](assets/terminal.png)
